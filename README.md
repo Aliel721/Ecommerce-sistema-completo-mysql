@@ -1,3 +1,4 @@
+<img width="1678" height="502" alt="e-commerce_1" src="https://github.com/user-attachments/assets/7022bb24-b1fa-4e77-8998-6708f97d3281" />
 # Ecommerce-sistema-completo-mysql
 sistema completo de e-commerce desenvolvido em MYSQL, incluindo modelagem de banco de dados, tabelas para produtos, estoque, clientes (PF,PJ) pedidos, pagamentos e entregas. o projeto contem scripts SQL para criação das tabelas, inserts de exemplo e queries de consulta, pronto para para estudo e pratica de desenvolvimento de banco de dados.
  📦 Projeto Banco de Dados - E-commerce
