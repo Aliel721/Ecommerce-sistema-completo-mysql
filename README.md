@@ -58,3 +58,8 @@ Implementação no *PostgreSQL* utilizando:
 ```sql
 CREATE DATABASE ecommerce;
 \c ecommerce;
+<img width="1678" height="502" alt="e-commerce_1" src="https://github.com/user-attachments/assets/02bae6af-f96a-45b5-ac91-d517d7636e8c" />
+[E-commerce-1757788722 (1).sql](https://github.com/user-attachments/files/22313298/E-commerce-1757788722.1.sql)
+[E-commerce-1757788722 (1).sql](https://github.com/user-attachments/files/22313321/E-commerce-1757788722.1.sql)
+<img width="1678" height="502" alt="e-commerce_1" src="https://github.com/user-attachments/assets/d88d4629-d8c2-4e0a-a29e-f5c03b724caf" />
+[E-commerce-1757788722 (1).sql](https://github.com/user-attachments/files/22313335/E-commerce-1757788722.1.sql)
