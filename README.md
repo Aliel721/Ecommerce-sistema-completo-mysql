@@ -52,6 +52,9 @@ Implementação no *PostgreSQL* utilizando:
 - *entrega* → status e prazos de envio dos pedidos  
 
 ---
+deixo o script SQL  em pdf 
+[projeto_ecommerce.sql.pdf](https://github.com/user-attachments/files/22313551/projeto_ecommerce.sql.pdf)
+
 
 ## 💾 Execução
 
